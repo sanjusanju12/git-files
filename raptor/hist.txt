@@ -1,0 +1,38 @@
+    1  ped
+    2  ls
+    3  cd ..
+    4  cd sanjeeeva-aits/
+    5  mkdir raptopr
+    6  mkdir raptor
+    7  rmdir raptor
+    8  mkdir raptor
+    9  cd raptor
+   10  touch first.txt
+   11  echo "hello everyone"
+   12  echo 1..10
+   13  echo {1..10}
+   14  echo {1..100}
+   15  touch file{1..10}.txt
+   16  rm first.txt
+   17  rm file{5..10}txt
+   18  rm file{2..4}.txt
+   19  echo "hello everyone"
+   20  echo "hello everyone">> file1.txt
+   21  echo "hiiiiiiiiiiiiii">>file1.txt
+   22  cat file1.txt
+   23  touch myfile{1..20}.cpp
+   24  rm *.cpp
+   25  touch myfile{1..5}.c
+   26  touch myfile{6..10java
+   27  touch myfile{11..15}.txt
+   28  touch myfile{16..20}.py
+   29  ls
+   30  rm 8.java
+   31  ls
+   32  rm myfile{13..15}.txt
+   33  ls
+   34  cat file.txt
+   35  cp file1.txt myfile12.txt
+   36  cat myfile.txt
+   37  mv myfile12.txt myfile11.txt
+   38  history >>hist.txt
